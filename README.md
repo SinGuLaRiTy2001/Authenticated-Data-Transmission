@@ -1,4 +1,4 @@
-# IK2206 - NetPipe Project
+# NetPipe Project: Authenticated Data Transmission
 
 > This is a one-man course project requiring JAVA implementation.
 
